@@ -1,0 +1,78 @@
+# 2. Continuous Integration
+---------------------------
+
+* Continuous Integration
+------------------------
+Integration that is happening continuously
+
+		**** VERY IMPORTANT FOR THE PROJECT ****
+
+		Continuous Integration										Non-Continuous Integration
+		----------------------										--------------------------
+		. Merge frequently										. Merge everything at once
+
+		. QA when code is ready (This requires to have automated tests)					. QA makes all the changes at once
+
+		. Developer driven										. Schedule and deadline driven
+
+
+* Levels of testing
+-------------------
+. Syntax textign and linting
+
+. Unit and integration testing
+
+		**** VERY IMPORTANT FOR THE PROJECT ****
+
+		Unit testing focuses in individual units of code, for example, testing a function with various valid and invalid arguments, and comparing that to the expecting output.
+
+		Integration tests, are tests that focus on a larger scope. (Does this feature works as expected, does the API call return the expected output?).
+
+		
+. Acceptance testing (very similar to integration testing but running in an environment as similar to the real environment as possible, and simulating real user interaction).
+
+
+* Pipelines
+-----------
+The tests should happen in a pipeline. This allows to find errors in seconds of submitting the merge requests, insted of waiting several minutes, for your entire set of tests to run.
+
+		**** VERY IMPORTANT FOR THE PROJECT ****
+
+		Your tests should fail early and often
+
+		YOU NEED TO PUT TIME AND EFFORT INTO COMPREHENSIVE TESTS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Creating a pipeline
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

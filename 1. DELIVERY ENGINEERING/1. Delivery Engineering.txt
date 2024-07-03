@@ -1,0 +1,170 @@
+# 1. Delivery Engineering
+-------------------------
+
+* What is GitLab?
+-----------------
+GitLab is an end-to-end solution
+
+
+* Continuous Integration
+------------------------
+. Automated, cannot be a manual process
+
+. Code and feature integration
+
+. Combining updates into existing code base
+
+. Testing
+
+. Automation
+
+. GitLab uses pipelines
+
+
+* Continuous Delivery
+---------------------
+. Automated
+
+. Delivery can mean deployment
+
+. The process of building and deploying your app
+
+	For web based applications the process can be more complicated.  It involves the process first of updating one or more pre-production environments, validating the application, 
+	and pushing those changes out to the customer facing production environment, and again validating the change
+
+. Pushing changes to environments
+
+	Essentially CD is the process that picks up where CI leaves off.
+
+. Release events (The code is pushed out at a specified time, that's either chosen for being low impact for the end users or when the development team has around to deal with any issues
+that might crop up.
+
+. Invest in good tests.
+
+
+* Source Control
+----------------
+. Keep track of code
+
+. GitLab uses Git
+
+. Git tracks changes not files
+
+. Git is fast
+
+. Designed for collaboration
+
+		**** VERY IMPORTANT FOR THE PROJECT **** SOURCE CONTROL IS ESSENTIAL FOR MODERN SOFTWARE DEVELOPMENT 
+
+. Git can be tricky, but GitLab makes it easy
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* What problem needs solving?
+-----------------------------
+		**** VERY IMPORTANT FOR THE PROJECT **** 
+		WHATEVER TOOLS OR METHODOLOGY A TEAM USES, YOU CAN USUALLY MAP THE WORK TO WHAT'S CALLED THE SOFTWARE DEVELOPMENT LIFE CYCLE OR SDLC
+
+
+* SDLC
+------
+. Analysis
+
+. Design
+
+. Development
+
+. Deployment and Delivery (Getting the completed product to the end users)
+
+. Maintenance (Ongoing support of the product - Bug Fixes)
+
+
+		**** VERY IMPORTANT FOR THE PROJECT **** 
+		A WELL-ESTABLISHED COMPANY LOOKING TO BREAK INTO A NEW AREA OF BUSINESS MIGHT SPEND A VERY LONG TIME ON ANALYSIS AND DESIGN, BECAUSE A MISSTEP IN THIS PART CAN
+		DESTROY THE REPUTATION
+
+		THE ANSWER IS CI/CD IS A WAY OF MAKING THOSE PARTS OF THE SDLC MORE ADAPTIVE AND ALLOWS MORE BACK AND FORTH ACROSS THE ENTIRE PROCESS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Set up a project
+------------------
+https://about.gitlab.com
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Lean manufacturing models
+---------------------------
+
+* Lessons from Lean Manufacturing
+---------------------------------
+
+. Just-in-Time
+--------------
+. Small batches
+
+. Less material on hand (In software the raw materials are requirements gathering and design).
+
+. Lower inventory (The Software equivalence to this is Increasing Cadence).
+
+. Shorter backlog
+
+. Smaller changeset
+
+. More frequent releases
+
+
+* Theory of Constraints
+-----------------------
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
