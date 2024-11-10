@@ -7,5 +7,5 @@ Creating software is about more than just writing code.
 
 It requires careful planning, testing, and deployment.
 
-Or your risk alienating your end users with broken features and frustrating downtime.
+Or you risk alienating your end users with broken features and frustrating downtime.
 
